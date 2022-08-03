@@ -1,0 +1,8 @@
+path: ../content/envolve  
+train: /content/plumYOLO/train/images
+val: /content/plumYOLO/val/images  
+test: /content/plumYOLO/test/images  
+
+# Classes
+nc: 4  # number of classes
+names: ['frogeye_leaf_spot', 'powdery_mildew','rust','scab']  # class names
