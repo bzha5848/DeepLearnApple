@@ -1,7 +1,7 @@
-path: ../content/envolve  
-train: /content/plumYOLO/train/images
-val: /content/plumYOLO/val/images  
-test: /content/plumYOLO/test/images  
+path: ../content/YOLOTest/AppleFix  
+train: /content/YOLOTest/AppleFix/train/images
+val: /content/YOLOTest/AppleFix/test/images  
+test: /content/YOLOTest/AppleFix/test/images  
 
 # Classes
 nc: 4  # number of classes
